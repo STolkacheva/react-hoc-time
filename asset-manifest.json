@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hoc-time/static/css/main.c162786f.css",
+    "main.js": "/react-hoc-time/static/js/main.ad0d85ff.js",
+    "index.html": "/react-hoc-time/index.html",
+    "main.c162786f.css.map": "/react-hoc-time/static/css/main.c162786f.css.map",
+    "main.ad0d85ff.js.map": "/react-hoc-time/static/js/main.ad0d85ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c162786f.css",
+    "static/js/main.ad0d85ff.js"
+  ]
+}
